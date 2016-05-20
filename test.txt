@@ -1,5 +1,8 @@
 abc
+<<<<<<< HEAD
 defg
 hijk
 asdf
 xzcv
+=======
+>>>>>>> bc6183f5cb105b47b6aabfe2acd62eb8241efcf5
