@@ -6,8 +6,11 @@
 
 > text1
 > text2
+
+
 [naver](www.naver.com)
-[naver][link]
+[link][1]
+[1] : www.naver.com
 
 ![apple](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsF9JAriBd8rli_WIgSl-awH4SUbupr0kJ37bKerhSy44snSIXqfslS1E)
 
