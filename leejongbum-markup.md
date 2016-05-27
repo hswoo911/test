@@ -10,7 +10,7 @@
 
 [naver](www.naver.com)
 [link][1]
-[1] : www.naver.com
+[1]: www.naver.com
 
 ![apple](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSsF9JAriBd8rli_WIgSl-awH4SUbupr0kJ37bKerhSy44snSIXqfslS1E)
 
