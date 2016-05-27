@@ -18,4 +18,8 @@ number | name
 
 
 ```javascript
-/'hello/'
+void main()
+{
+	pinrtf("hello");
+}
+```
