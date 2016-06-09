@@ -1,3 +1,2 @@
-Hi.
-I'm new data.
-inserted text
+New Data.
+End.
